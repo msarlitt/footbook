@@ -4,6 +4,12 @@ mike:
   email: "mbsarlitt@gmail.com"
   profile_name: "msarlitt"
 
+bilbo:
+  first_name: "Bilbo"
+  last_name: "Baggins"
+  email: "baggins@aol.com"
+  profile_name: "bbaggins"
+
 
 
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
